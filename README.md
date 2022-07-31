@@ -1,7 +1,6 @@
 # burger project
-# Using vue to create a dynamic interface. CRUD concepts used to iteract with json server to emulate an API
-
-# Please create and manipulate your burger !
+### Using vue to create a dynamic interface. CRUD concepts used to iteract with json server to emulate an API
+### Please create and manipulate your burger !
 
 ## Project setup
 ```
