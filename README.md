@@ -6,7 +6,7 @@
 ```
 npm install
 ```
-### Run the json server. You must run this in other terminal.
+### Run the json server. You must run this in an second terminal.
 ```
 npm run backend
 ```
