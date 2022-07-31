@@ -4,7 +4,10 @@
 ```
 npm install
 ```
-
+### Run the json server. You must run this in other terminal.
+```
+npm run backend
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
